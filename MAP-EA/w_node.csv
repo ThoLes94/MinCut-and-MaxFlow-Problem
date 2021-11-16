@@ -1,6 +1,0 @@
-node;type;site;demand;Y;X;server
-1;1;Amsterdam;1;5;0;0
-2;1;Athens;1;5;5;0
-3;1;Barcelona;1;5;10;0
-4;1;Belgrade;1;0;2.5;0
-5;1;Berlin;1;0;7.5;0
