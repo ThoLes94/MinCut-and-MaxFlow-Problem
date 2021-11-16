@@ -1,0 +1,9 @@
+node;type;site;demand;Y;X;server
+1;1;Amsterdam;1;1;0;0
+2;1;Athens;1;1;1;0
+3;1;Barcelona;1;1;2;0
+4;1;Belgrade;1;1;3;0
+5;1;Berlin;1;0;0;0
+6;1;Birmingham;1;0;1;0
+7;1;Bordeaux;1;0;2;0
+8;1;Brussels;1;0;3;0
